@@ -7,6 +7,8 @@ A personal repository with various frontend things I've stubled into.
 - [EQCSS](https://github.com/eqcss/eqcss/) - A JS based reporcessor for CSS. Adds some cool features.
 - [Mousetrap](https://github.com/ccampbell/mousetrap) - Handle keyboard events like a sane man.
 - [Labella.js](https://twitter.github.io/labella.js/) - Generate a labeled timeline easily.
+- [Hammer.js](https://github.com/hammerjs/hammer.js) - Detect touch gestures.
+- [Muuri](https://github.com/haltu/muuri) - JS based layout system.
 
 ## Resources
 - [How to configure Webpack 2.0+ in 2017](https://codeburst.io/easy-guide-for-webpack-2-0-from-scratch-fe508a3ce44e) - super helpful Webpack tutorial.

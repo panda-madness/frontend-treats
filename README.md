@@ -11,6 +11,7 @@ A personal repository with various frontend things I've stubled into.
 - [Muuri](https://github.com/haltu/muuri) - JS based layout system.
 - [Sortable](https://github.com/RubaXa/Sortable) - draggable, sortable lists.
 - [Flatpickr](https://github.com/chmln/flatpickr) - datepicker without dependecies.
+- [Web Animations polyfill](https://github.com/web-animations/web-animations-js)
 
 ## Resources
 - [How to configure Webpack 2.0+ in 2017](https://codeburst.io/easy-guide-for-webpack-2-0-from-scratch-fe508a3ce44e) - super helpful Webpack tutorial.

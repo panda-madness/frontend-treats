@@ -9,6 +9,8 @@ A personal repository with various frontend things I've stubled into.
 - [Labella.js](https://twitter.github.io/labella.js/) - Generate a labeled timeline easily.
 - [Hammer.js](https://github.com/hammerjs/hammer.js) - Detect touch gestures.
 - [Muuri](https://github.com/haltu/muuri) - JS based layout system.
+- [Sortable](https://github.com/RubaXa/Sortable) - draggable, sortable lists.
+- [Flatpickr](https://github.com/chmln/flatpickr) - datepicker without dependecies.
 
 ## Resources
 - [How to configure Webpack 2.0+ in 2017](https://codeburst.io/easy-guide-for-webpack-2-0-from-scratch-fe508a3ce44e) - super helpful Webpack tutorial.
